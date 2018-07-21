@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
         layoutMgr = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(layoutMgr);
         adapter = new RecyclerAdapter(mCtx , getItem());
-
         recyclerView.setAdapter(adapter);
 
 
