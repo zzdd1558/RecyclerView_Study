@@ -3,6 +3,7 @@ package com.example.yunjin_choi.myapplication;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.NonNull;
+import android.support.design.widget.Snackbar;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -59,6 +60,16 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             itemImage = itemView.findViewById(R.id.item_image);
             itemName = itemView.findViewById(R.id.item_title);
             itemMsg = itemView.findViewById(R.id.item_detail);
+
+            itemView.setOnClickListener(new View.OnClickListener(){
+                @Override
+                public void onClick(View v) {
+                    int position = getAdapterPosition();
+
+                    Snackbar.make(v, "Click detected Item " + position, Snackbar.LENGTH_LONG).setAction("Action" , null) . show();
+
+                }
+            });
         }
     }
 }
