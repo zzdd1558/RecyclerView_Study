@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="img_array">
+        <item>@drawable/item_img_1</item>
+        <item>@drawable/item_img_2</item>
+        <item>@drawable/item_img_3</item>
+        <item>@drawable/item_img_4</item>
+        <item>@drawable/item_img_5</item>
+        <item>@drawable/item_img_6</item>
+        <item>@drawable/item_img_7</item>
+        <item>@drawable/item_img_8</item>
+        <item>@drawable/item_img_9</item>
+        <item>@drawable/item_img_10</item>
+        <item>@drawable/item_img_11</item>
+        <item>@drawable/item_img_12</item>
+        <item>@drawable/item_img_13</item>
+        <item>@drawable/item_img_14</item>
+        <item>@drawable/item_img_15</item>
+        <item>@drawable/item_img_16</item>
+    </integer-array>
+
+    <string-array name="nm_array">
+        <item>김수현</item>
+        <item>아이린</item>
+        <item>강지영</item>
+        <item>김예원</item>
+        <item>산다라박</item>
+        <item>시그널그애</item>
+        <item>나연</item>
+        <item>박명수</item>
+        <item>어디서본애</item>
+        <item>구혜선</item>
+        <item>종혁</item>
+        <item>TOP</item>
+        <item>유댕이</item>
+        <item>설현</item>
+        <item>소진이모?</item>
+        <item>군부심쩌는애</item>
+    </string-array>
+
+    <string-array name="msg_array">
+        <item>농약같은가시나</item>
+        <item>이쁜애 옆에 이쁜애 옆에 이쁜애 옆에 이쁜애</item>
+        <item>강지영이 맞나...</item>
+        <item>(개발자가 팬임)언니 저 마음에 안들죠?? 뭐래...</item>
+        <item>산다라박 동생이 누구더라...</item>
+        <item>시그널 그애 맞나 그애같은디... 이름이 기억이 안나네</item>
+        <item>토끼같은 나연 이번에 앨범나오던데 채영이는 앨범낼때마다 이뻐지는데 나연이는 그냥 원래 이쁨</item>
+        <item>무한도전 보고싶다 ㅠㅠ 명수형 ㅠㅠ 요즘 뭐해...?</item>
+        <item>애가 그 해병대 나온 그애아닌가 ... 전역도 미룬애?</item>
+        <item>시켜줘 금잔디 명예소방관</item>
+        <item>신사의 품격 말고 어디서 봤더라...</item>
+        <item>아임그루트 아임그루트 아임그루트 아임그루트 아임그루트</item>
+        <item>유댕이 요즘 뭐하지... 홍대역 게임광고에선 매일 보는대...</item>
+        <item>딱히 특색이 없어서 남길말이...</item>
+        <item>소진이모인가?? 누구지 어디서 봤는데 누구인지 모르는 사람</item>
+        <item>군대갔다와서 군대토크로 성공한형... 군대없었으면 어쩔뻔했냨ㅋㅋㅋㅋ</item>
+    </string-array>
+
+</resources>
